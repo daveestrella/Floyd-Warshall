@@ -1,0 +1,6 @@
+D:\PUCE\Tercero\Estructuras II\Floyd-Warshall\Floyd-Warshall\bin\Debug\Floyd-Warshall.exe.config
+D:\PUCE\Tercero\Estructuras II\Floyd-Warshall\Floyd-Warshall\bin\Debug\Floyd-Warshall.exe
+D:\PUCE\Tercero\Estructuras II\Floyd-Warshall\Floyd-Warshall\bin\Debug\Floyd-Warshall.pdb
+D:\PUCE\Tercero\Estructuras II\Floyd-Warshall\Floyd-Warshall\obj\Debug\Floyd-Warshall.csprojResolveAssemblyReference.cache
+D:\PUCE\Tercero\Estructuras II\Floyd-Warshall\Floyd-Warshall\obj\Debug\Floyd-Warshall.exe
+D:\PUCE\Tercero\Estructuras II\Floyd-Warshall\Floyd-Warshall\obj\Debug\Floyd-Warshall.pdb
